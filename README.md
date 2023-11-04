@@ -1,4 +1,3 @@
-I apologize for the confusion. You can create a `README.md` file in your project's root directory and paste the following content into it:
 
 ````markdown
 # Excel Grid App
